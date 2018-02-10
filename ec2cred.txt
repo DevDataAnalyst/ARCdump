@@ -1,0 +1,4 @@
+Servernames – pwcbigdisk01.poccloud.arcnp.com, pwcbigdisk02.poccloud.arcnp.com
+
+Key pair – pwc_key_pair
+
