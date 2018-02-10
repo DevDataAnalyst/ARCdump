@@ -2,3 +2,21 @@ Servernames – pwcbigdisk01.poccloud.arcnp.com, pwcbigdisk02.poccloud.arcnp.com
 
 Key pair – pwc_key_pair
 
+pandas
+numpy
+boto3
+boto
+psycopg2
+json
+csv
+
+
+install pip
+curl -O https://bootstrap.pypa.io/get-pip.py
+
+sudo yum install python-pip
+
+dghosh
+
+workspace pwd: unimas*05
+aws pwd: uni*EOD1234
